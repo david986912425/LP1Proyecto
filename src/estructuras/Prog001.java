@@ -14,5 +14,6 @@ public class Prog001 {
     }else{
         System.out.println("es impar");
     }
+    teclado.close();
 }
 }
